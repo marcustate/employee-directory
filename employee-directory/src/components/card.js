@@ -11,3 +11,5 @@ function Card(props) {
             </tr>       
     )
 }
+
+export default Card;
